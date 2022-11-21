@@ -18,7 +18,7 @@
 * [FoodHub Flutter](https://github.com/Saif64/flutter-FoodHub)
 * [Flutter Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai)
 * [Jetpack Compose Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard)
-* [Vanila Android QuiZ App](https://github.com/Saif64/TriviaApp)
+* [Vanila Android Quiz App](https://github.com/Saif64/TriviaApp)
 
 
 <!---
