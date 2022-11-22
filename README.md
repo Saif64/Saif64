@@ -14,7 +14,7 @@
 #### Be sure to follow me and give a star in the repository you like. Try to contribute by implementing features in the repos.
 * [Interview-Prep](https://github.com/Saif64/Interview-prep)
 * [Camp-Go](https://github.com/Saif64/CampGo)
-* [Jama Kapor MERN](https://github.com/Saif64/Jama-Kapor)
+* [Jama Kapor MERN](https://github.com/Saif64/jama-Kapor)
 * [FoodHub Flutter](https://github.com/Saif64/flutter-FoodHub)
 * [Flutter Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai)
 * [Jetpack Compose Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard)
