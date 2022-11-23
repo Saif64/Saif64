@@ -1,4 +1,14 @@
-# Muntasir Mahmud Saif
+# Muntasir Mahmud Saif  
+![GitHub followers](https://img.shields.io/github/followers/Saif64?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64)
+
+![Metrics](https://metrics.lecoq.io/Saif64)
+
+<hr>
+
+![my github activity graph](https://activity-graph.herokuapp.com/graph?username=Saif64&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
+<hr>
 
 - 👋 Hi, I’m [@Saif64](https://github.com/Saif64)
 - 👀 I’m interested in mostly coding, problem solving and building new softwares 
