@@ -32,9 +32,3 @@
 | [Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard) | Jetpack Compose
 | [Quiz App](https://github.com/Saif64/TriviaApp) | Vanila Android
 | [Pricing Plan View](https://github.com/Saif64/pricing-plan) | Plain CSS
-
-
-<!---
-Saif64/Saif64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
