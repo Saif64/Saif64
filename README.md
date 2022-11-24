@@ -22,13 +22,16 @@
 
 ## If you are trying to learn DSA or taking preparation or want to see how a website or app is built of your next interview you can always visit my repository 
 #### Be sure to follow me and give a star in the repository you like. Try to contribute by implementing features in the repos.
-* [Interview-Prep](https://github.com/Saif64/Interview-prep)
-* [Camp-Go](https://github.com/Saif64/CampGo)
-* [Jama Kapor MERN](https://github.com/Saif64/jama-kapor)
-* [FoodHub Flutter](https://github.com/Saif64/flutter-FoodHub)
-* [Flutter Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai)
-* [Jetpack Compose Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard)
-* [Vanila Android Quiz App](https://github.com/Saif64/TriviaApp)
+| Project Name| Technology USed|
+|:-----------:|:---------------:|
+| [Interview-Prep](https://github.com/Saif64/Interview-prep) | Best Repository to prepare yourself
+| [Camp-Go](https://github.com/Saif64/CampGo) | EJS, Mongo, Express, Node.js
+| [Jama Kapor MERN](https://github.com/Saif64/jama-kapor) | MERN
+| [FoodHub](https://github.com/Saif64/flutter-FoodHub) | Flutter
+| [Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai) | Flutter
+| [Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard) | Jetpack Compose
+| [Quiz App](https://github.com/Saif64/TriviaApp) | Vanila Android
+| [Pricing Plan View](https://github.com/Saif64/pricing-plan) | Plain CSS
 
 
 <!---
