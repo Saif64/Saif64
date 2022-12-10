@@ -1,4 +1,4 @@
-# Muntasir Mahmud Saif  
+# Muntasir Mahmud Saif 🤓🤠😵‍💫
 ![GitHub followers](https://img.shields.io/github/followers/Saif64?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64) 
 
@@ -19,11 +19,11 @@
 #### Be sure to follow me and give a star in the repository you like. Try to contribute by implementing features in the repos.
 | Project Name| Technology USed|
 |:-----------:|:---------------:|
-| [Interview-Prep](https://github.com/Saif64/Interview-prep) | Best Repository to prepare yourself
-| [Camp-Go](https://github.com/Saif64/CampGo) | EJS, Mongo, Express, Node.js
-| [Jama Kapor MERN](https://github.com/Saif64/jama-kapor) | MERN
-| [FoodHub](https://github.com/Saif64/flutter-FoodHub) | Flutter
-| [Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai) | Flutter
-| [Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard) | Jetpack Compose
-| [Quiz App](https://github.com/Saif64/TriviaApp) | Vanila Android
-| [Pricing Plan View](https://github.com/Saif64/pricing-plan) | Plain CSS
+| [Interview-Prep](https://github.com/Saif64/Interview-prep) | Best Repository to prepare yourself 🤓
+| [Camp-Go](https://github.com/Saif64/CampGo) | EJS, Mongo, Express, Node.js :basecamp:
+| [Jama Kapor MERN](https://github.com/Saif64/jama-kapor) | MERN 👚
+| [FoodHub](https://github.com/Saif64/flutter-FoodHub) | Flutter 🍔
+| [Basic Currency Change](https://github.com/Saif64/Flutter-vangiChai) | Flutter 🤑💰
+| [Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard) | Jetpack Compose 😵
+| [Quiz App](https://github.com/Saif64/TriviaApp) | Vanila Android  🚡
+| [Pricing Plan View](https://github.com/Saif64/pricing-plan) | Plain CSS 💸
