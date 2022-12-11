@@ -7,10 +7,22 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Saif64&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif64&theme=dracula) 
+<p align="center">
+<a href="https://github.com/Saif64">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif64&theme=dracula">
+</a>    
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saif64&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif64&theme=dracula) 
+<p align="center">
+<a href="https://github.com/Saif64">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saif64&theme=dracula">
+</a>
+<a href="https://github.com/Saif64">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif64&theme=dracula">
+</a>    
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif64&theme=dracula)  -->
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saif64&theme=dracula)  -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif64&theme=dracula)  -->
 - 👋 Hi, I’m [@Saif64](https://github.com/Saif64)
 - 👀 I’m interested in mostly coding, problem solving and building new softwares 
 - 🌱 I’m currently studying at Brac University
