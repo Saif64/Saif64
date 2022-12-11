@@ -2,8 +2,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/Saif64?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64) 
 
-
-![Metrics](https://metrics.lecoq.io/Saif64)
+<p align="center">
+<a href="https://github.com/Saif64">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Saif64&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 - 👋 Hi, I’m [@Saif64](https://github.com/Saif64)
 - 👀 I’m interested in mostly coding, problem solving and building new softwares 
