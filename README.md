@@ -33,7 +33,7 @@
 - Here is my [LinkedIn](https://www.linkedin.com/in/muntasir-mahmud-saif-9a0900233/) profile
 ---
 
-## ⭐🌟 If you are trying to learn DSA or taking preparation or want to see how a website or app is built of your next interview you can always visit my repository 
+## ⭐🌟 If you are trying to learn DSA or taking preparation or want to see how a website or app is built for your next interview you can always visit my repository 
 #### :computer: Be sure to follow me and give a star in the repository you like. Try to contribute by implementing features in the repos. ⭐🌟
 | Project Name| Technology USed|
 |:-----------:|:---------------:|
