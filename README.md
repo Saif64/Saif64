@@ -45,3 +45,4 @@
 | [Profile Card](https://github.com/Saif64/-JetpackCompose-ProfileCard) | Jetpack Compose 😵
 | [Quiz App](https://github.com/Saif64/TriviaApp) | Vanila Android  🚡
 | [Pricing Plan View](https://github.com/Saif64/pricing-plan) | Plain CSS 💸
+|[TRAVEL](https://github.com/Saif64/travel)| HTML CSS JS
