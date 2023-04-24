@@ -27,12 +27,8 @@
 - 👀 I’m interested in mostly coding, problem solving and building new softwares 
 - 🌱 I’m currently studying at Brac University
 - 💞️ I’m looking to collaborate on many open source projects and want to build my own open source project so that I can help as much people as I can.
-- 📫 Reach me through [@Muntasir Mahmud Saif](https://www.facebook.com/muntasir.m.saif)
-- I take initiative extremely well. I enjoy creating new websites and applications and solving challenges. I'm not required to work up to the due date. Furthermore, I excel at working under pressure. My sole passion is to work as a software developer. In the upcoming 4-5 years, I hope to envision myself as a team leader of are spectable organization.
-- my skillsets are 
+- my skillsets are <br>
     [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,kotlin,bash,dart,flutter,nodejs,react,mongodb,python,linux,git)](https://skillicons.dev)    
-- Visit My [Leetcode](https://leetcode.com/mmSaif_64) Profile
-- Here is my [LinkedIn](https://www.linkedin.com/in/muntasir-mahmud-saif-9a0900233/) profile
 ---
 
 
