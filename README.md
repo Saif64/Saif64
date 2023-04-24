@@ -1,6 +1,5 @@
-# Muntasir Mahmud Saif 🤓🤠😵‍💫
-![GitHub followers](https://img.shields.io/github/followers/Saif64?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64) 
+# Muntasir Mahmud Saif 🤓🤠😵‍💫     ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64) 
+
 
 <p align="center">
 <a href="https://github.com/Saif64">
