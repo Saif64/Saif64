@@ -1,4 +1,4 @@
-# Muntasir Mahmud Saif 🤓🤠😵‍💫     ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Saif64) 
+# Muntasir Mahmud Saif 🤓🤠😵‍💫 
 
 
 <p align="center">
