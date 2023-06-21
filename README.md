@@ -40,6 +40,7 @@
 | [Interview-Prep](https://github.com/Saif64/Interview-prep) | `Best Repository to prepare yourself 🤓`
 | [Camp-Go](https://github.com/Saif64/CampGo) | `EJS` `Mongo` `Express` `Node.js` :basecamp:
 | [Jama Kapor MERN](https://github.com/Saif64/jama-kapor) | `MERN 👚`
+| [Expense Tracking App](https://github.com/Saif64/expenses_tracker) | `Flutter && FireBase 🔥`
 | [FoodHub](https://github.com/Saif64/flutter-FoodHub) | `Flutter` && `Laravel` 🍔
 | [ChatMe UI](https://github.com/Saif64/flutter-ChatMe-UI) | `Flutter` 💌
 | [Web Dev Learning](https://github.com/Saif64/webDev-Learing) | `Every Web fundamentals 🌏🕸️`
